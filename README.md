@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on TJUT
-- 🌱 I’m currently learning Java&Vue
 
 <a href="https://github.com/aLIEz1/aLIEZ1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLIEz1&layout=compact&hide=javascript" />
